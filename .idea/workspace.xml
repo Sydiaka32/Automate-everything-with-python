@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfdbd0eb-6e64-4659-a04c-4bc2eb2cf54c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Automation_Python_Course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Browser Automation and Web Scraping/Scraping Simple text with Selenium.py" afterDir="false" />
+    <list default="true" id="cfdbd0eb-6e64-4659-a04c-4bc2eb2cf54c" name="Changes" comment="Set options to make browsing easier">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Browser Automation and Web Scraping/Scraping Simple text with Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Browser Automation and Web Scraping/Scraping Simple text with Selenium.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sydiaka32"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sydiaka32/Automate-everything-with-python.git",
+    "accountId": "7077ea58-5edf-4a28-821a-b82ff92ab988"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -37,7 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -56,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1758047193056</updated>
     </task>
+    <task id="LOCAL-00001" summary="Set options to make browsing easier">
+      <option name="closed" value="true" />
+      <created>1758047688494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758047688494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Set options to make browsing easier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set options to make browsing easier" />
   </component>
 </project>
