@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfdbd0eb-6e64-4659-a04c-4bc2eb2cf54c" name="Changes" comment="Set options to make browsing easier">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cfdbd0eb-6e64-4659-a04c-4bc2eb2cf54c" name="Changes" comment="Added functions">
       <change beforePath="$PROJECT_DIR$/Browser Automation and Web Scraping/Scraping Simple text with Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Browser Automation and Web Scraping/Scraping Simple text with Selenium.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Scraping Simple text with Selenium.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -74,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1758047688494</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added functions">
+      <option name="closed" value="true" />
+      <created>1758048239030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758048239030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Set options to make browsing easier" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set options to make browsing easier" />
+    <MESSAGE value="Added functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functions" />
   </component>
 </project>
