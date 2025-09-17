@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfdbd0eb-6e64-4659-a04c-4bc2eb2cf54c" name="Changes" comment="Added writing value into a file">
+    <list default="true" id="cfdbd0eb-6e64-4659-a04c-4bc2eb2cf54c" name="Changes" comment="Downloading stock data">
+      <change afterPath="$PROJECT_DIR$/Browser Automation and Web Scraping/Scrape real-time currency rate with beatiful soup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Browser Automation and Web Scraping/Scraping Simple text with Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Browser Automation and Web Scraping/Scraping Simple text with Selenium.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Automated login.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scraping Simple text with Selenium.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Automated login.executor": "Run",
+    "Python.Download stock data for any company for any date.executor": "Run",
+    "Python.Scrape real-time currency rate with beatiful soup.executor": "Run",
+    "Python.Scraping Simple text with Selenium.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python.Download stock data for any company for any date">
+}]]></component>
+  <component name="RunManager" selected="Python.Scrape real-time currency rate with beatiful soup">
     <configuration name="Download stock data for any company for any date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Automation_Python_Course" />
       <option name="ENV_FILES" value="" />
@@ -68,6 +70,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Browser Automation and Web Scraping/Download stock data for any company for any date.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scrape real-time currency rate with beatiful soup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Python_Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Browser Automation and Web Scraping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Browser Automation and Web Scraping/Scrape real-time currency rate with beatiful soup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Scrape real-time currency rate with beatiful soup" />
         <item itemvalue="Python.Download stock data for any company for any date" />
         <item itemvalue="Python.Scraping Simple text with Selenium" />
       </list>
@@ -169,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758135128360</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Downloading stock data">
+      <option name="closed" value="true" />
+      <created>1758135679138</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758135679138</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Downloading stock data">
+      <option name="closed" value="true" />
+      <created>1758135687790</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758135687790</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,6 +220,7 @@
     <MESSAGE value="Scraping dynamic value" />
     <MESSAGE value="Automated login form" />
     <MESSAGE value="Added writing value into a file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added writing value into a file" />
+    <MESSAGE value="Downloading stock data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Downloading stock data" />
   </component>
 </project>
