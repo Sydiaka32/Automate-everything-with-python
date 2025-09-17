@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfdbd0eb-6e64-4659-a04c-4bc2eb2cf54c" name="Changes" comment="fixed find element by xpath syntax">
+    <list default="true" id="cfdbd0eb-6e64-4659-a04c-4bc2eb2cf54c" name="Changes" comment="Scraping dynamic value">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,13 +90,22 @@
       <option name="project" value="LOCAL" />
       <updated>1758048303187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Scraping dynamic value">
+      <option name="closed" value="true" />
+      <created>1758049588319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758049588319</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Set options to make browsing easier" />
     <MESSAGE value="Added functions" />
     <MESSAGE value="fixed find element by xpath syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed find element by xpath syntax" />
+    <MESSAGE value="Scraping dynamic value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scraping dynamic value" />
   </component>
 </project>
